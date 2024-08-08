@@ -1,0 +1,5 @@
+/mnt/c/Users/Maxim Mjakinin/Desktop/Rechnernetze und verteilte Systeme/praxis3-skeleton/rn-praxis/build/CMakeFiles/webserver.dir
+/mnt/c/Users/Maxim Mjakinin/Desktop/Rechnernetze und verteilte Systeme/praxis3-skeleton/rn-praxis/build/CMakeFiles/package.dir
+/mnt/c/Users/Maxim Mjakinin/Desktop/Rechnernetze und verteilte Systeme/praxis3-skeleton/rn-praxis/build/CMakeFiles/package_source.dir
+/mnt/c/Users/Maxim Mjakinin/Desktop/Rechnernetze und verteilte Systeme/praxis3-skeleton/rn-praxis/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Maxim Mjakinin/Desktop/Rechnernetze und verteilte Systeme/praxis3-skeleton/rn-praxis/build/CMakeFiles/rebuild_cache.dir

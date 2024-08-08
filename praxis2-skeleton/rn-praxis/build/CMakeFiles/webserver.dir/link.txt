@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/webserver.dir/executables/webserver.c.o CMakeFiles/webserver.dir/executables/http.c.o CMakeFiles/webserver.dir/executables/util.c.o CMakeFiles/webserver.dir/executables/data.c.o -o webserver  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so -lm 
